@@ -1,5 +1,6 @@
 # IMAGE-TRANSFORMATIONS
-
+## Name: AJAYRAJA RATHINAM T
+## Register no:212224240006
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
